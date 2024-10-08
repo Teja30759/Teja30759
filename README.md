@@ -7,7 +7,7 @@
 #  
 </div>
     <a href="https://git.io/typing-svg">
-        <img style="align-items:center;" src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0EF770&random=false&width=435&lines=Kon'nichiwa!;I+am+Sai+Mahendra+%F0%9F%98%8E" alt="Typing SVG" style="display: block; margin: auto;" />
+        <img style="align-items:center;" src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0EF770&random=false&width=435&lines=Kon'nichiwa!;I+am+Teja+%F0%9F%98%8E" alt="Typing SVG" style="display: block; margin: auto;" />
     </a>
     
 </div>
@@ -27,25 +27,21 @@
 
     ```
     {
-    "Name": "Bejawada Sai Mahendra",
+    "Name": "Katra Teja Srikiran",
     "Age": "20",
     "Pronouns": "He/Him",
-    "Academics": "I am pursuing a dual degree (BBA[I] && B.TECH CSE [III])",
+    "Academics": "I am pursuing B.TECH CSE [III])",
     "Description": "I love developing
-                    automation scripts,
-                    web apps, and integrating AI models into programs.
-                    Currently, I am learning the Gemini API.",
-    "Location": "Chiamkurthy, Ongole",
+                    web apps",
+    "Location": "Guntur",
     "Hobbies": [
         "Gaming",
-        "Watching anime",
         "Coding while listening to music"
     ]
     "Skills": {
         "Technical": [
             "C", "Problem Solving", "Data Structures", "Java",  "Html", "API Integration",
-            "Css","Js","Python","React","Mysql","Firebase","Nodejs","Postgres","MongoDb",
-            "Netlify"...
+            "Css","Js","React","Mysql","Postgres"-...
         ],
         "Soft Skills": [
             "Communication","Teamwork","Problem Solving","Adapdabilty"
@@ -74,21 +70,20 @@
 </br>
 
 # My Coding Profiles:
-<a href="https://www.hackerrank.com/profile/h2200030548">
+<a href="https://www.hackerrank.com/profile/h2200030759">
 <img align="left" alt=" Hackerrank" width="40" hight="20" src="https://raw.githubusercontent.com/saimahendra282/saimahendra282/90b3b1517edf404909783b61e862af0f032f419c/Assets/hackerrank.svg" />
-</a><a href="https://www.codechef.com/users/sai_30548">
+</a><a href="https://www.codechef.com/users/klu_2200030759">
 <img align="left" alt=" codechef" width="40" hight="20" src="https://raw.githubusercontent.com/saimahendra282/saimahendra282/6bd1be0f42410982a0d9e6bed2c811ce54d5ccb0/Assets/icons8-codechef.svg" />
-</a><a href="https://codepen.io/saimahendra">
-<img align="left" alt=" codepen" width="40" hight="20" src="https://github.com/saimahendra282/saimahendra282/blob/main/Assets/fincodepen.png" />
+
 </a>
 <br/><br/><br/>
 
 # Contact Me :
 <p>
-<a href="bejawadasaimahendra@gmail.com">
+<a href="katrateja6463@gmail.com">
  <img align="left" alt="Gmail" width="130" hight="100" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/gmail.png" />
 </a>
-<a href="https://www.linkedin.com/in/bejawada-sai-mahendra-b18289212/">
+<a href="https://www.linkedin.com/in/teja-srikiran-katra/">
   <img align="left" alt="Linkedin" width="150" hight="100" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/linkedin.png" />
 </br>
 </br>
@@ -99,13 +94,13 @@
 </br>
 </br>
     <p align="center"  >Most Used Languages:</p>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saimahendra282&theme=tokyonight&show_icons=true&hide_border=false&layout=compact" alt="GitHub Streak" align="center" /></a>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Teja30759&theme=tokyonight&show_icons=true&hide_border=false&layout=compact" alt="GitHub Streak" align="center" /></a>
 <p align="center" >My Stats ⭐:</p>
-<img align="center"  src="https://github-readme-stats.vercel.app/api?username=saimahendra282&theme=tokyonight&show_icons=true&hide_border=false&count_private=true"></a>
+<img align="center"  src="https://github-readme-stats.vercel.app/api?username=Teja30759&theme=tokyonight&show_icons=true&hide_border=false&count_private=true"></a>
   </p>
 <h3 align="center">  My Contributions  </h3>
 <p align="center"> 
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=saimahendra282&theme=tokyonight&hide_border=false">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Teja30759&theme=tokyonight&hide_border=false">
 </p>
 <p align="center">
     
