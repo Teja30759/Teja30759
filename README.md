@@ -30,7 +30,7 @@
     "Name": "Katra Teja Srikiran",
     "Age": "20",
     "Pronouns": "He/Him",
-    "Academics": "I am pursuing B.TECH CSE [III])",
+    "Academics": "I am pursuing B.TECH CSE [IV])",
     "Description": "I love developing
                     web apps",
     "Location": "Guntur",
@@ -41,7 +41,7 @@
     "Skills": {
         "Technical": [
             "C", "Problem Solving", "Data Structures", "Java",  "Html", "API Integration",
-            "Css","Js","React","Mysql","Postgres"-...
+            "Css","Js","React","Mysql"-...
         ],
         "Soft Skills": [
             "Communication","Teamwork","Problem Solving","Adapdabilty"
